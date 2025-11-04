@@ -22,5 +22,5 @@ https://github.com/kingston-hackSpace/Sound-Detector/blob/main/SoundDetector.pdf
 
 MORE INFO
 -
-https://learn.sparkfun.com/tutorials/sound-detector-hookup-guide#reso
+https://learn.sparkfun.com/tutorials/sound-detector-hookup-guide
 
