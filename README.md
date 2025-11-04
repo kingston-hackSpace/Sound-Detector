@@ -9,7 +9,7 @@ in the environment.
 
 FEATURES
 - 
-- GATE: Processes DIGITAL signals that indicates whether the sound level is above or below a certain threshold.
+- GATE: Processes DIGITAL signals that indicate whether the sound level is above or below a certain threshold.
 In other words, it works like an on/off switch to detect sound vs. no sound.
 
 - ENVELOPE: Processes ANALOG signals that represent ambient sound volume. In other words, it allow us to monitor sound amplitud. 
