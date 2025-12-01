@@ -6,7 +6,7 @@ Note : *It does NOT provide decibel readings, so it’s not suitable for precise
 
 Note : *It’s NOT a sound recorder—* It only measures sound intensity (volume) and provides a corresponding signal.
 
-More info [here](https://learn.sparkfun.com/tutorials/sound-detector-hookup-guide)
+More info : [here](https://learn.sparkfun.com/tutorials/sound-detector-hookup-guide)
 
 ----
 
@@ -30,10 +30,10 @@ In other words, it works like an on/off switch to detect sound vs. no sound.
 # TUTORIAL :  ENVELOPE
 
 ### WIRING 
-Envelope diagram reference image [here](https://github.com/kingston-hackSpace/Sound-Detector/blob/main/Envelope/Env_Diagram.png)
+Envelope diagram reference image : [here](https://github.com/kingston-hackSpace/Sound-Detector/blob/main/Envelope/Env_Diagram.png)
 
 ### CODE
-Envelope Arduino code [here](https://github.com/kingston-hackSpace/Sound-Detector/blob/main/Envelope/Envelope.ino)
+Envelope Arduino code : [here](https://github.com/kingston-hackSpace/Sound-Detector/blob/main/Envelope/Envelope.ino)
 
 ----
 # TUTORIAL :  GATE
@@ -42,6 +42,7 @@ Envelope Arduino code [here](https://github.com/kingston-hackSpace/Sound-Detecto
 Gate diagram reference image : [here](https://github.com/kingston-hackSpace/Sound-Detector/blob/main/Gate/Gate_Diagram.png)
 
 ### CODE
+Gate Arduino code : [here](https://github.com/kingston-hackSpace/Sound-Detector/blob/main/Gate/Gate.ino)
 
 
 
