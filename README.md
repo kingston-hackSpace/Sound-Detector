@@ -39,6 +39,8 @@ Envelope Arduino code [here](https://github.com/kingston-hackSpace/Sound-Detecto
 # TUTORIAL :  GATE
 
 ### WIRING
+Gate diagram reference image : [here](https://github.com/kingston-hackSpace/Sound-Detector/blob/main/Gate/Gate_Diagram.png)
+
 ### CODE
 
 
