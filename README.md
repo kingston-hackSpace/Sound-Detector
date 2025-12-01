@@ -32,8 +32,13 @@ In other words, it works like an on/off switch to detect sound vs. no sound.
 ### WIRING 
 Envelope diagram reference image : [here](https://github.com/kingston-hackSpace/Sound-Detector/blob/main/Envelope/Env_Diagram.png)
 
-### CODE
-Envelope Arduino code : [here](https://github.com/kingston-hackSpace/Sound-Detector/blob/main/Envelope/Envelope.ino)
+Note: Arduino A0 pin is connected to the sensor's **ENVELOPE pin**
+
+### CODE & INSTRUCTIONS
+
+- Upload [this code](https://github.com/kingston-hackSpace/Sound-Detector/blob/main/Envelope/Envelope.ino) to your Arduino board
+
+- Open the Serial Monitor to visualize the incomming data from the sensor
 
 ----
 # TUTORIAL :  GATE
@@ -41,9 +46,21 @@ Envelope Arduino code : [here](https://github.com/kingston-hackSpace/Sound-Detec
 ### WIRING
 Gate diagram reference image : [here](https://github.com/kingston-hackSpace/Sound-Detector/blob/main/Gate/Gate_Diagram.png)
 
-### CODE
-Gate Arduino code : [here](https://github.com/kingston-hackSpace/Sound-Detector/blob/main/Gate/Gate.ino)
+Note: Arduino A0 pin is connected to the sensor's **GATE pin**
 
+### CODE & INSTRUCTIONS
+  
+- Upload [this code](https://github.com/kingston-hackSpace/Sound-Detector/blob/main/Gate/Gate.ino) to your Arduino board.
 
+- Look carefully at this new code. It is very similar to the previous one, but key elements have changed.
+
+- Open the Serial Monitor. How is this GATE data different to previous ENVELOPE one. 
+
+----
+# MORE TUTORIALS
+
+[Sparkfun hookup guide](https://learn.sparkfun.com/tutorials/sound-detector-hookup-guide)
+
+[RGB LED reactive to sound - tutorial](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-the-arduino-101genuino-101-board/experiment-15-using-the-sound-detector-board)
 
 
