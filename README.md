@@ -29,7 +29,9 @@ In other words, it works like an on/off switch to detect sound vs. no sound.
 ---- 
 # TUTORIAL :  ENVELOPE
 
-### WIRING
+### WIRING 
+Envelope diagram reference image [here](https://github.com/kingston-hackSpace/Sound-Detector/blob/main/Envelope/Env_Diagram.png)
+
 ### CODE
 
 ----
