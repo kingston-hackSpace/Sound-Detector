@@ -21,13 +21,21 @@ In other words, it works like an on/off switch to detect sound vs. no sound.
 
 
 ----
-
-# TUTORIAL
-
 ### HARDWARE
 
-The following tutorial demonstrates how to use the Sound-Detector in its two modes (gate and envelope), visualizing the in-coming data in the Arduino IDE Serial Monitor. 
+- Arduino UNO
+- Sparkfun Sound Detector
 
+---- 
+# TUTORIAL :  ENVELOPE
+
+### WIRING
+### CODE
+
+----
+# TUTORIAL :  GATE
+
+### WIRING
 ### CODE
 
 
