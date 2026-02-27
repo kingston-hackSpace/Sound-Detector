@@ -54,7 +54,9 @@ Note: Arduino A0 pin is connected to the sensor's **GATE pin**
 
 - Look carefully at this new code. It is very similar to the previous one, but key elements have changed.
 
-- Open the Serial Monitor. How is this GATE data different to previous ENVELOPE one. 
+- Open the Serial Monitor. How is this GATE data different to previous ENVELOPE one.
+
+- Next: Add an LED and resistor, and upload [this code].
 
 ----
 # MORE TUTORIALS
