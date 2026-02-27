@@ -40,6 +40,7 @@ Note: Arduino A0 pin is connected to the sensor's **ENVELOPE pin**
 
 - Open the Serial Monitor to visualize the incomming data from the sensor
 
+- Next: Add an LED and resistor, and upload [this code](https://github.com/kingston-hackSpace/Sound-Detector/blob/main/Envelope/Envelop_LED.ino) to your board. 
 ----
 # TUTORIAL :  GATE
 
@@ -56,7 +57,7 @@ Note: Arduino A0 pin is connected to the sensor's **GATE pin**
 
 - Open the Serial Monitor. How is this GATE data different to previous ENVELOPE one.
 
-- Next: Add an LED and resistor, and upload [this code](https://github.com/kingston-hackSpace/Sound-Detector/blob/main/Envelope/Envelop_LED.ino) to your board. 
+- Next: Add an LED and resistor, and upload [this code]
 
 ----
 # MORE TUTORIALS
