@@ -1,12 +1,11 @@
 /*
 SparkFun Sound Detector
 GATE MODE
-Detecting sound and visualizing with an LED
+Detecting sound and visualizing in the Serial Monitor
 
 Hardware:
 Arduino UNO
 Sparkfun Sound Detector
-LED + 220ohms resistor
 */
 
 #define gatePin 2 //digital pin
