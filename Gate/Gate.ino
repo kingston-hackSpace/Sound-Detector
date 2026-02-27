@@ -17,5 +17,5 @@ void setup() {
 }
 
 void loop() {
-  Serial.println( analogRead( gatePin ) );
+  Serial.println( digitalRead( gatePin ) );
 }
