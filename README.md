@@ -29,9 +29,9 @@ In other words, it works like an on/off switch to detect sound vs. no sound.
 ---- 
 # TUTORIAL :  ENVELOPE
 
-### WIRING 
-Envelope diagram reference image : [here](https://github.com/kingston-hackSpace/Sound-Detector/blob/main/Envelope/Env_Diagram.png)
+### WIRING : ENVELOP
 
+<img src="Envelope/Env_Diagram.png" width="500">
 Note: Arduino A0 pin is connected to the sensor's **ENVELOPE pin**
 
 ### CODE & INSTRUCTIONS
@@ -46,8 +46,9 @@ Note: Arduino A0 pin is connected to the sensor's **ENVELOPE pin**
 ----
 # TUTORIAL :  GATE
 
-### WIRING
-Gate diagram reference image : [here](https://github.com/kingston-hackSpace/Sound-Detector/blob/main/Gate/Gate_Diagram.png)
+### WIRING : GATE
+
+<img src="Gate/Gate_Diagram.png" width="500">
 
 Note: Arduino A0 pin is connected to the sensor's **GATE pin**
 
